@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/texstudio](https://draculatheme.com/texstudio).
+All instructions can be found at [draculatheme.com/texstudio](https://github.com/afazevedo/texstudio-dracula-theme/blob/master/INSTALL.md).
 
 ## Team
 
