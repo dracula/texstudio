@@ -16,4 +16,5 @@ Download using the [GitHub .zip download](https://github.com/afazevedo/texstudio
 2. Create a copy of the backup file and rename it to `dracula.txsprofile`.
 3. Open dracula.txsprofile file in your text editor and replace the [formats] section with the content found in `dracula.formats`. 
 4. Open Texstudio: `Options` > `Load Profile` and load the edited dracula.txsprofile.
-5. Restart and boom! It's working!
+5. (Optional) Works better with Adwalta Dark: `Options` > `Configure TeXstudio` and change the Style.
+6. Restart and boom! It's working!
